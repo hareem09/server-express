@@ -44,8 +44,8 @@ http://localhost:5000
 Want to visit on different routes run:
 
 Demo:
-     
-     will go to about page
+
+  will go to about page
 
     http://localhost:5000/about 
 
